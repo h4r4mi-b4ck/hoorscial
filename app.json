@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "HoorSocial",
+    "slug": "hoorsocial",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.hoorsocial.app",
+      "versionCode": 1
+    },
+    "splash": {
+      "backgroundColor": "#fff7fb"
+    }
+  }
+}
